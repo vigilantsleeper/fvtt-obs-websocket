@@ -1,0 +1,21 @@
+{
+  "name": "fvtt-obs-websocket",
+  "title": "OBS Websocket",
+  "description": "Connect to OBS from foundry",
+  "author": "Vigilantsleeper",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7.9"
+"scripts": [
+  "scripts/obs-websocket.js"
+]
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	],
+"url": "https://github.com/vigilantsleeper/fvtt-obs-websocket",
+"manifest": "https://raw.githubusercontent.com/vigilantsleeper/fvtt-obs-websocket/main/module.json",
+"download": "https://github.com/vigilantsleeper/fvtt-obs-websocket/releases/download/0.1/fvtt-obs-websocket.zip"
+}
